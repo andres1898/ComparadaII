@@ -1,9 +1,8 @@
 # ComparadaII
-
-##############################################################################
-(\____/)        Andres F. Ordoñez Casadiego                                ###
-( ͡ ͡° ͜ ʖ ͡ ͡°)     Universidad Industrial de Santander                        ###
-\╭☞ \╭☞        This is my script for the final proyect of Comparada II    ###
+###############################################################################
+# (\____/)        Andres F. Ordoñez Casadiego                               
+#( ͡ ͡° ͜ ʖ ͡ ͡°)     Universidad Industrial de Santander                        
+#\╭☞ \╭☞        This is my script for the final proyect of Comparada II    
 ##############################################################################
 
 
