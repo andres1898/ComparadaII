@@ -7,7 +7,7 @@ generate_tree <- function(ntaxa, replics) {
   
 for (i in 1:replics){
 
-  set.seed(1234*replics) #set the seed for replications
+  set.seed(1234*i) #set the seed for replications
   
   #####################
   ## generate trees ##
