@@ -20,6 +20,6 @@ But, you may have to install some libraries in R and install the program RevBaye
 
 This script is preliminary because was made to generate just one replicate
 
-I hope MY commentaries are informative.
+I hope my commentaries are informative.
 
 bye bye
