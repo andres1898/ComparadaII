@@ -1,4 +1,4 @@
-# ComparadaII
+# Comparative Biology II
 #
 #
 #
